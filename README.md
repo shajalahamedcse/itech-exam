@@ -1,4 +1,4 @@
 # itech-exam
 
-#Answer A:
+
 
