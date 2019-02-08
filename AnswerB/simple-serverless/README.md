@@ -1,7 +1,7 @@
 # simple-serverless
 **simple-serverless** is a serverless RESTful api backed by **PostgreSQL(AWS RDS)**, can easily be deployed using **AWS Lambda**
 
-![serverless](/diagram/server.jpg)
+![serverless](simple-serverless/diagram/server.jpg)
 
 ### Serverless deployment using AWS Lambda
 We are using [*Zappa*](https://github.com/Miserlou/Zappa) python package to automate the process of serverless deployment.
